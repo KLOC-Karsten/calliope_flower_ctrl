@@ -1,0 +1,26 @@
+{
+    "name": "Calliope_Flower_Ctrl",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "display": "github:calliope-edu/pxt-display#1f732758e1f0903be78ed912f58d8a49519f422b",
+        "v3": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.28",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
